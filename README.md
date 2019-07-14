@@ -1,3 +1,3 @@
 # Curriculum
 
-See our [Wiki](https://github.com/kollaacademy/curriculum-html/wiki)
+Untuk melihat kurikulum silahkan cek [Wiki](https://github.com/kollaacademy/curriculum-html/wiki)
