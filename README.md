@@ -1,6 +1,6 @@
 <table>
   <thead>
-    <th><h1>Kurikulum HTML DEVELOPER</h1></th>
+    <th colspan="2"><h1>KURIKULUM HTML DEVELOPER</h1></th>
   </thead>
   <tbody>
     <tr>
