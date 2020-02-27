@@ -1,7 +1,5 @@
+<h1>SILABUS HTML DEVELOPER</h1>
 <table>
-  <thead>
-    <th colspan="2"><h1>KURIKULUM HTML DEVELOPER</h1></th>
-  </thead>
   <tbody>
     <tr>
       <td><strong>Nama Program Pelatihan</strong></td>
@@ -17,7 +15,13 @@
     </tr>
     <tr>
       <td><strong>Standar Kompetensi Acuan</strong></td>
-      <td>Coursera, edX, Udacity</td>
+      <td>
+        <ul>
+          <li>Coursera</li>
+          <li>edX</li>
+          <li>Udacity</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td><strong>Skema Sertifikasi Acuan</strong></td>
