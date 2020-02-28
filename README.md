@@ -177,4 +177,4 @@
   </tr>
 </table>
 
-<p>Lihat [Materi Ajar](https://github.com/kollaacademy/curriculum-html/wiki) di [Wiki](https://github.com/kollaacademy/curriculum-html/wiki)</p>
+Lihat [Materi Ajar](https://github.com/kollaacademy/curriculum-html/wiki) di [Wiki](https://github.com/kollaacademy/curriculum-html/wiki)
