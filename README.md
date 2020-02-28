@@ -77,3 +77,99 @@
     </tr>
   </tbody>
 </table>
+
+<h1>HTML</h1>
+
+<table>
+  <tr>
+    <th rowspan="2">NO</th>
+    <th rowspan="2">MATA PELATIHAN</th>
+    <th colspan="2">UNIT KOMPETENSI ACUAN</th>
+    <th colspan="3">PERKIRAAN WAKTU PELATIHAN (JP)</th>
+  </tr>
+  <tr>
+    <td>UNIT KOMPETENSI</td>
+    <td>KODE UNIT KOMPETENSI</td>
+    <td>PENGETAHUAN</td>
+    <td>KETERAMPILAN</td>
+    <td>JUMLAH</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Ekosistem HTML</td>
+    <td>Mengerti posisi HTML dalam ekosistem web</td>
+    <td>html.001</td>
+    <td>3</td>
+    <td>0</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Sintaks dan Tata Bahasa HTML</td>
+    <td>Mengerti sintaks dan tata bahasa dalam HTML</td>
+    <td>html.002</td>
+    <td>3</td>
+    <td>3</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Topografi HTML</td>
+    <td>Menerapkan topografi dalam halaman web</td>
+    <td>html.002</td>
+    <td>3</td>
+    <td>3</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Tipografi HTML</td>
+    <td>Menerapkan tipografi dalam halaman web </td>
+    <td>html.003</td>
+    <td>3</td>
+    <td>3</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Hyperlink HTML</td>
+    <td>Menerapkan hyperlink dalam halaman web</td>
+    <td>html.004</td>
+    <td>3</td>
+    <td>3</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Multimedia HTML</td>
+    <td>Menerapkan multimedia dalam halaman web</td>
+    <td>html.004</td>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Table HTML</td>
+    <td>Menerapkan table dalam halaman web</td>
+    <td>html.005</td>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Form HTML</td>
+    <td>Menerapkan form dalam halaman web</td>
+    <td>html.006</td>
+    <td>3</td>
+    <td>3</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td colspan="4">Jumlah</td>
+    <td>20</td>
+    <td>19</td>
+    <td>39</td>
+  </tr>
+</table>
