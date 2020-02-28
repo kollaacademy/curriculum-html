@@ -1,6 +1,6 @@
 <h1>HTML DEVELOPER</h1>
 
-<h2>SILABUS HTML DEVELOPER</h2>
+<h2>Silabus HTML Developer</h2>
 
 <table>
   <tbody>
@@ -81,25 +81,25 @@
   </tbody>
 </table>
 
-<h2>KURIKULUM PELATIHAN</h2>
+<h2>Kurikulum Pelatihan</h2>
 
 <table>
   <tr>
-    <th rowspan="2">NO</th>
-    <th rowspan="2">MATA PELATIHAN</th>
-    <th colspan="2">UNIT KOMPETENSI ACUAN</th>
-    <th colspan="3">PERKIRAAN WAKTU PELATIHAN (JP)</th>
+    <th rowspan="2">No</th>
+    <th rowspan="2">Mata Pelatihan</th>
+    <th colspan="2">unit Kompetensi Acuan</th>
+    <th colspan="3">Perkiraan Waktu Pelatihan (JP)</th>
   </tr>
   <tr>
-    <td>UNIT KOMPETENSI</td>
-    <td>KODE UNIT KOMPETENSI</td>
-    <td>PENGETAHUAN</td>
-    <td>KETERAMPILAN</td>
-    <td>JUMLAH</td>
+    <td>Unit Kompetensi</td>
+    <td>Kode Unit kompetensi</td>
+    <td>Pengetahuan</td>
+    <td>Keterampilan</td>
+    <td>Jumlah</td>
   </tr>
   <tr>
     <td>1</td>
-    <td>Ekosistem HTML</td>
+    <td><strong>Ekosistem HTML</strong></td>
     <td>Mengerti posisi HTML dalam ekosistem web</td>
     <td>html.001</td>
     <td>3</td>
@@ -108,7 +108,7 @@
   </tr>
   <tr>
     <td>2</td>
-    <td>Sintaks dan Tata Bahasa HTML</td>
+    <td><strong>Sintaks dan Tata Bahasa HTML</strong></td>
     <td>Mengerti sintaks dan tata bahasa dalam HTML</td>
     <td>html.002</td>
     <td>3</td>
@@ -117,7 +117,7 @@
   </tr>
   <tr>
     <td>3</td>
-    <td>Topografi HTML</td>
+    <td><strong>Topografi HTML</strong></td>
     <td>Menerapkan topografi dalam halaman web</td>
     <td>html.002</td>
     <td>3</td>
@@ -126,7 +126,7 @@
   </tr>
   <tr>
     <td>4</td>
-    <td>Tipografi HTML</td>
+    <td><strong>Tipografi HTML</strong></td>
     <td>Menerapkan tipografi dalam halaman web </td>
     <td>html.003</td>
     <td>3</td>
@@ -135,7 +135,7 @@
   </tr>
   <tr>
     <td>5</td>
-    <td>Hyperlink HTML</td>
+    <td><strong>Hyperlink HTML</strong></td>
     <td>Menerapkan hyperlink dalam halaman web</td>
     <td>html.004</td>
     <td>3</td>
@@ -144,7 +144,7 @@
   </tr>
   <tr>
     <td>6</td>
-    <td>Multimedia HTML</td>
+    <td><strong>Multimedia HTML</strong></td>
     <td>Menerapkan multimedia dalam halaman web</td>
     <td>html.004</td>
     <td>1</td>
@@ -153,7 +153,7 @@
   </tr>
   <tr>
     <td>7</td>
-    <td>Table HTML</td>
+    <td><strong>Table HTML</strong></td>
     <td>Menerapkan table dalam halaman web</td>
     <td>html.005</td>
     <td>1</td>
@@ -162,7 +162,7 @@
   </tr>
   <tr>
     <td>8</td>
-    <td>Form HTML</td>
+    <td><strong>Form HTML</strong></td>
     <td>Menerapkan form dalam halaman web</td>
     <td>html.006</td>
     <td>3</td>
@@ -170,9 +170,11 @@
     <td>6</td>
   </tr>
   <tr>
-    <td colspan="4">Jumlah</td>
+    <th colspan="4">Jumlah</th>
     <td>20</td>
     <td>19</td>
     <td>39</td>
   </tr>
 </table>
+
+Lihat silabus di [Wiki](https://github.com/kollaacademy/curriculum-html/wiki)
