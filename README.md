@@ -187,13 +187,9 @@
     <th rowspan="2">No</th>
     <th rowspan="2">Penyelenggara</th>
     <th rowspan="2">Sertifikasi</th>
-    <th colspan="3">Kompetensi</th>
     <th colspan="2">Biaya</th>
   </tr>
   <tr>
-    <th>HTML</th>
-    <th>CSS</th>
-    <th>JavaScript</th>
     <th>Free</th>
     <th>Paid</th>
   </tr>
