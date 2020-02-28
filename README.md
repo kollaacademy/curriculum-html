@@ -179,4 +179,101 @@
   </tr>
 </table>
 
+<h2>Sertifikasi</h2>
+
+<table>
+  <tr>
+    <th>No</th>
+    <th>Penyelenggara</th>
+    <th><span style="font-weight:bold">Sertifikasi</span></th>
+    <th>HTML</th>
+    <th>CSS</th>
+    <th>JavaScript</th>
+    <th>Free</th>
+    <th>Paid</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>BPPTIK Kementerian Kominfo</td>
+    <td>http://202.89.117.140/pelatihan/detail/108</td>
+    <td>✓</td>
+    <td>✓</td>
+    <td>✓</td>
+    <td>✓</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>BPPTIK Kementerian Kominfo</td>
+    <td>http://202.89.117.140/program/38/detail</td>
+    <td>✓</td>
+    <td>✓</td>
+    <td>✓</td>
+    <td>✓</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>SoloLearn</td>
+    <td>https://www.sololearn.com/Course/HTML/</td>
+    <td>✓</td>
+    <td></td>
+    <td></td>
+    <td>✓</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Udemy</td>
+    <td>https://www.udemy.com/course/html-in-one-hour/</td>
+    <td>✓</td>
+    <td></td>
+    <td></td>
+    <td>✓</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Coursera</td>
+    <td>https://www.coursera.org/learn/html</td>
+    <td>✓</td>
+    <td></td>
+    <td></td>
+    <td>✓ (audit)</td>
+    <td>✓</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>edX</td>
+    <td>https://www.edx.org/course/html5-and-css-fundamentals</td>
+    <td>✓</td>
+    <td>✓</td>
+    <td></td>
+    <td>✓ (audit)</td>
+    <td>✓</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>edX</td>
+    <td>https://www.edx.org/course/html5-coding-essentials-and-best-practices</td>
+    <td>✓</td>
+    <td></td>
+    <td></td>
+    <td>✓ (audit)</td>
+    <td>✓</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>FreeCodeCamp</td>
+    <td>https://www.edx.org/course/html5-coding-essentials-and-best-practices</td>
+    <td>✓</td>
+    <td></td>
+    <td></td>
+    <td>✓</td>
+    <td></td>
+  </tr>
+</table>
+
+<h2>Materi Ajar</h2>
+
 Lihat [Materi Ajar](https://github.com/kollaacademy/curriculum-html/wiki) di [Wiki](https://github.com/kollaacademy/curriculum-html/wiki)
