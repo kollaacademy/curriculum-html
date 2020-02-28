@@ -178,4 +178,4 @@
   </tr>
 </table>
 
-Lihat silabus di [Wiki](https://github.com/kollaacademy/curriculum-html/wiki)
+Lihat [Materi Ajar](https://github.com/kollaacademy/curriculum-html/wiki) di [Wiki](https://github.com/kollaacademy/curriculum-html/wiki)
