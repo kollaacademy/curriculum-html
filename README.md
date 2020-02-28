@@ -191,16 +191,16 @@
     <th colspan="2">Biaya</th>
   </tr>
   <tr>
-    <td>HTML</td>
-    <td>CSS</td>
-    <td>JavaScript</td>
-    <td>Free</td>
-    <td>Paid</td>
+    <th>HTML</th>
+    <th>CSS</th>
+    <th>JavaScript</th>
+    <th>Free</th>
+    <th>Paid</th>
   </tr>
   <tr>
     <td>1</td>
     <td>SoloLearn</td>
-    <td><a href="https://www.sololearn.com/Course/HTML/" title="HTML">HTML</a></td>
+    <td><a href="https://www.sololearn.com/Course/HTML/" title="HTML Fundamentals">HTML Fundamentals</a></td>
     <td>✓</td>
     <td></td>
     <td></td>
@@ -220,7 +220,7 @@
   <tr>
     <td>3</td>
     <td>Coursera</td>
-    <td><a href="https://www.coursera.org/learn/html" title="HTML">HTML</a></td>
+    <td><a href="https://www.coursera.org/learn/html" title="Introduction to HTML5">Introduction to HTML5</a></td>
     <td>✓</td>
     <td></td>
     <td></td>
