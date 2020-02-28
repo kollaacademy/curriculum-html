@@ -55,7 +55,7 @@
     </tr>
     <tr>
       <td><strong>Perkiraan Waktu Pelatihan</th>
-      <td>21 - 36 Jam Pelatihan</td>
+      <td>39 Jam Pelatihan</td>
     </tr>
     <tr>
       <td><strong>Persyaratan Umum Peserta Pelatihan</strong></td>
