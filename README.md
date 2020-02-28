@@ -42,14 +42,14 @@
       <td><strong>Unit Kompetensi yang ditempuh</strong></td>
       <td>
         <ol>
-          <li>Ekosistem HTML</li>
-          <li>Sintaks dan Tata Bahasa HTML</li>
-          <li>Topografi HTML</li>
-          <li>Tipografi HTML</li>
-          <li>Hyperlink HTML</li>
-          <li>Multimedia HTML</li>
-          <li>Table HTML</li>
-          <li>Form HTML</li>
+          <li>html.001 Mengerti posisi HTML dalam ekosistem web</li>
+          <li>html.002 Mengerti sintaks dan tata bahasa dalam HTML</li>
+          <li>html.003 Menerapkan topografi dalam halaman web</li>
+          <li>html.004 Menerapkan tipografi dalam halaman web</li>
+          <li>html.005 Menerapkan hyperlink dalam halaman web</li>
+          <li>html.006 Menerapkan multimedia dalam halaman web</li>
+          <li>html.007 Menerapkan table dalam halaman web</li>
+          <li>html.008 Menerapkan form dalam halaman web</li>
         </ol>
       </td>
     </tr>
