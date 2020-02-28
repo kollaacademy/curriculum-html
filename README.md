@@ -87,15 +87,15 @@
   <tr>
     <th rowspan="2">No</th>
     <th rowspan="2">Mata Pelatihan</th>
-    <th colspan="2">unit Kompetensi Acuan</th>
+    <th colspan="2">Unit Kompetensi Acuan</th>
     <th colspan="3">Perkiraan Waktu Pelatihan (JP)</th>
   </tr>
   <tr>
-    <td>Unit Kompetensi</td>
-    <td>Kode Unit kompetensi</td>
-    <td>Pengetahuan</td>
-    <td>Keterampilan</td>
-    <td>Jumlah</td>
+    <th>Unit Kompetensi</th>
+    <th>Kode Unit kompetensi</th>
+    <th>Pengetahuan</th>
+    <th>Keterampilan</th>
+    <th>Jumlah</th>
   </tr>
   <tr>
     <td>1</td>
@@ -177,4 +177,4 @@
   </tr>
 </table>
 
-Lihat silabus di [Wiki](https://github.com/kollaacademy/curriculum-html/wiki)
+<p>Lihat [Materi Ajar](https://github.com/kollaacademy/curriculum-html/wiki) di [Wiki](https://github.com/kollaacademy/curriculum-html/wiki)</p>
