@@ -10,7 +10,7 @@
     </tr>
     <tr>
       <td><strong>Kode Program Pelatihan</strong></td>
-      <td>html 101</td>
+      <td>html101</td>
     </tr>
     <tr>
       <td><strong>Sub Bidang Pelatihan</strong></td>
@@ -72,10 +72,10 @@
       <td><strong>Persyaratan Umum Tenaga Pengajar</strong></td>
       <td>
         <ol>
-          <li>Memiliki Kompetensi Komputer101</li>
-          <li>Memiliki Kompetensi Internet101</li>
-          <li>Memiliki Kompetensi HTML101</li>
-          <li>Memiliki Kompetensi CSS101</li>
+          <li>Memiliki Kompetensi <strong>komputer101</strong></li>
+          <li>Memiliki Kompetensi <strong>internet101</strong></li>
+          <li>Memiliki Kompetensi <strong>html101</strong></li>
+          <li>Memiliki Kompetensi <strong>css101</strong></li>
           <li>Mengikuti Training of Trainer untuk Mentor</li>
         </ol>
       </td>
@@ -103,7 +103,7 @@
     <td>1</td>
     <td><strong>Ekosistem HTML</strong></td>
     <td>Mengerti posisi HTML dalam ekosistem web</td>
-    <td>html.001</td>
+    <td>html.101.001</td>
     <td>3</td>
     <td>0</td>
     <td>3</td>
@@ -112,7 +112,7 @@
     <td>2</td>
     <td><strong>Sintaks dan Tata Bahasa HTML</strong></td>
     <td>Mengerti sintaks dan tata bahasa dalam HTML</td>
-    <td>html.002</td>
+    <td>html.101.002</td>
     <td>3</td>
     <td>3</td>
     <td>6</td>
@@ -121,7 +121,7 @@
     <td>3</td>
     <td><strong>Topografi HTML</strong></td>
     <td>Menerapkan topografi dalam halaman web</td>
-    <td>html.002</td>
+    <td>html.101.002</td>
     <td>3</td>
     <td>3</td>
     <td>6</td>
@@ -130,7 +130,7 @@
     <td>4</td>
     <td><strong>Tipografi HTML</strong></td>
     <td>Menerapkan tipografi dalam halaman web </td>
-    <td>html.003</td>
+    <td>html.101.003</td>
     <td>3</td>
     <td>3</td>
     <td>6</td>
@@ -139,7 +139,7 @@
     <td>5</td>
     <td><strong>Hyperlink HTML</strong></td>
     <td>Menerapkan hyperlink dalam halaman web</td>
-    <td>html.004</td>
+    <td>html.101.004</td>
     <td>3</td>
     <td>3</td>
     <td>6</td>
@@ -148,7 +148,7 @@
     <td>6</td>
     <td><strong>Multimedia HTML</strong></td>
     <td>Menerapkan multimedia dalam halaman web</td>
-    <td>html.004</td>
+    <td>html.101.004</td>
     <td>1</td>
     <td>2</td>
     <td>3</td>
@@ -157,7 +157,7 @@
     <td>7</td>
     <td><strong>Table HTML</strong></td>
     <td>Menerapkan table dalam halaman web</td>
-    <td>html.005</td>
+    <td>html.101.005</td>
     <td>1</td>
     <td>2</td>
     <td>3</td>
@@ -166,7 +166,7 @@
     <td>8</td>
     <td><strong>Form HTML</strong></td>
     <td>Menerapkan form dalam halaman web</td>
-    <td>html.006</td>
+    <td>html.101.006</td>
     <td>3</td>
     <td>3</td>
     <td>6</td>
