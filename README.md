@@ -14,7 +14,7 @@
     </tr>
     <tr>
       <td><strong>Sub Bidang Pelatihan</strong></td>
-      <td>Web Programmer</td>
+      <td>Front-End Developer</td>
     </tr>
     <tr>
       <td><strong>Standar Kompetensi Acuan</strong></td>
