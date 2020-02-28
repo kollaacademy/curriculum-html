@@ -42,8 +42,8 @@
       <td><strong>Unit Kompetensi yang ditempuh</strong></td>
       <td>
         <ol>
-          <li><strong>html.101.001</strong> Mengerti posisi HTML dalam ekosistem web</li>
-          <li><strong>html.101.002</strong> Mengerti sintaks dan tata bahasa dalam HTML</li>
+          <li><strong>html.101.001</strong> Menjelaskan posisi HTML dalam ekosistem web</li>
+          <li><strong>html.101.002</strong> Menjelaskan sintaks dan tata bahasa dalam HTML</li>
           <li><strong>html.101.003</strong> Menerapkan topografi dalam halaman web</li>
           <li><strong>html.101.004</strong> Menerapkan tipografi dalam halaman web</li>
           <li><strong>html.101.005</strong> Menerapkan hyperlink dalam halaman web</li>
@@ -102,7 +102,7 @@
   <tr>
     <td>1</td>
     <td><strong>Ekosistem HTML</strong></td>
-    <td>Mengerti posisi HTML dalam ekosistem web</td>
+    <td>Menjelaskan posisi HTML dalam ekosistem web</td>
     <td><strong>html.101.001</strong></td>
     <td>3</td>
     <td>0</td>
@@ -111,7 +111,7 @@
   <tr>
     <td>2</td>
     <td><strong>Sintaks dan Tata Bahasa HTML</strong></td>
-    <td>Mengerti sintaks dan tata bahasa dalam HTML</td>
+    <td>Menjelaskan sintaks dan tata bahasa dalam HTML</td>
     <td><strong>html.101.002</strong></td>
     <td>3</td>
     <td>3</td>
