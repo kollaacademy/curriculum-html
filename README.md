@@ -191,6 +191,13 @@
     <th colspan="2">Biaya</th>
   </tr>
   <tr>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>JavaScript</td>
+    <td>Free</td>
+    <td>Paid</td>
+  </tr>
+  <tr>
     <td>1</td>
     <td>SoloLearn</td>
     <td><a href="https://www.sololearn.com/Course/HTML/" title="HTML">HTML</a></td>
