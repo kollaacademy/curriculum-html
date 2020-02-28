@@ -10,7 +10,7 @@
     </tr>
     <tr>
       <td><strong>Kode Program Pelatihan</strong></td>
-      <td>html.101</td>
+      <td><strong>html.101</strong></td>
     </tr>
     <tr>
       <td><strong>Sub Bidang Pelatihan</strong></td>
@@ -42,14 +42,14 @@
       <td><strong>Unit Kompetensi yang ditempuh</strong></td>
       <td>
         <ol>
-          <li>html.101.001 Mengerti posisi HTML dalam ekosistem web</li>
-          <li>html.101.002 Mengerti sintaks dan tata bahasa dalam HTML</li>
-          <li>html.101.003 Menerapkan topografi dalam halaman web</li>
-          <li>html.101.004 Menerapkan tipografi dalam halaman web</li>
-          <li>html.101.005 Menerapkan hyperlink dalam halaman web</li>
-          <li>html.101.006 Menerapkan multimedia dalam halaman web</li>
-          <li>html.101.007 Menerapkan table dalam halaman web</li>
-          <li>html.101.008 Menerapkan form dalam halaman web</li>
+          <li><strong>html.101.001</strong> Mengerti posisi HTML dalam ekosistem web</li>
+          <li><strong>html.101.002</strong> Mengerti sintaks dan tata bahasa dalam HTML</li>
+          <li><strong>html.101.003</strong> Menerapkan topografi dalam halaman web</li>
+          <li><strong>html.101.004</strong> Menerapkan tipografi dalam halaman web</li>
+          <li><strong>html.101.005</strong> Menerapkan hyperlink dalam halaman web</li>
+          <li><strong>html.101.006</strong> Menerapkan multimedia dalam halaman web</li>
+          <li><strong>html.101.007</strong> Menerapkan table dalam halaman web</li>
+          <li><strong>html.101.008</strong> Menerapkan form dalam halaman web</li>
         </ol>
       </td>
     </tr>
