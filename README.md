@@ -69,12 +69,13 @@
       </td>
     </tr>
     <tr>
-      <td><strong>Persyaratan Tenaga Pengajar</strong></td>
+      <td><strong>Persyaratan Umum Tenaga Pengajar</strong></td>
       <td>
         <ol>
-          <li>Memiliki Kompetensi Komputer dan Internet</li>
-          <li>Memiliki Kompetensi HTML</li>
-          <li>Memiliki Kompetensi CSS</li>
+          <li>Memiliki Kompetensi Komputer101</li>
+          <li>Memiliki Kompetensi Internet101</li>
+          <li>Memiliki Kompetensi HTML101</li>
+          <li>Memiliki Kompetensi CSS101</li>
           <li>Mengikuti Training of Trainer untuk Mentor</li>
         </ol>
       </td>
@@ -82,7 +83,7 @@
   </tbody>
 </table>
 
-<h2>Kurikulum</h2>
+<h2>Kurikulum Pelatihan</h2>
 
 <table>
   <tr>
