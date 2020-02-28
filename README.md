@@ -72,10 +72,10 @@
       <td><strong>Persyaratan Umum Tenaga Pengajar</strong></td>
       <td>
         <ol>
-          <li>Memiliki Kompetensi <strong>komputer101</strong></li>
-          <li>Memiliki Kompetensi <strong>internet101</strong></li>
-          <li>Memiliki Kompetensi <strong>html101</strong></li>
-          <li>Memiliki Kompetensi <strong>css101</strong></li>
+          <li>Memiliki Kompetensi <strong>komputer.101</strong></li>
+          <li>Memiliki Kompetensi <strong>internet.101</strong></li>
+          <li>Memiliki Kompetensi <strong>html.101</strong></li>
+          <li>Memiliki Kompetensi <strong>css.101</strong></li>
           <li>Mengikuti Training of Trainer untuk Mentor</li>
         </ol>
       </td>
