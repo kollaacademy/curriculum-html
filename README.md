@@ -83,7 +83,7 @@
   </tbody>
 </table>
 
-<h2>Kurikulum Pelatihan</h2>
+<h2>Kurikulum</h2>
 
 <table>
   <tr>
