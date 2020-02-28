@@ -199,9 +199,6 @@
     <td><a href="https://www.sololearn.com/Course/HTML/" title="HTML Fundamentals">HTML Fundamentals</a></td>
     <td>✓</td>
     <td></td>
-    <td></td>
-    <td>✓</td>
-    <td></td>
   </tr>
   <tr>
     <td>2</td>
@@ -209,17 +206,11 @@
     <td><a href="https://www.udemy.com/course/html-in-one-hour/" title="HTML in One Hour">HTML in One Hour</a></td>
     <td>✓</td>
     <td></td>
-    <td></td>
-    <td>✓</td>
-    <td></td>
   </tr>
   <tr>
     <td>3</td>
     <td>Coursera</td>
     <td><a href="https://www.coursera.org/learn/html" title="Introduction to HTML5">Introduction to HTML5</a></td>
-    <td>✓</td>
-    <td></td>
-    <td></td>
     <td>✓ (audit)</td>
     <td>✓</td>
   </tr>
@@ -227,9 +218,6 @@
     <td>4</td>
     <td>edX</td>
     <td><a href="https://www.edx.org/course/html5-and-css-fundamentals" title="HTML5 and CSS Fundamentals">HTML5 and CSS Fundamentals</a></td>
-    <td>✓</td>
-    <td>✓</td>
-    <td></td>
     <td>✓ (audit)</td>
     <td>✓</td>
   </tr>
@@ -237,9 +225,6 @@
     <td>5</td>
     <td>edX</td>
     <td><a href="https://www.edx.org/course/html5-coding-essentials-and-best-practices" title="HTML5 Coding Essentials and Best Practices">HTML5 Coding Essentials and Best Practices</a></td>
-    <td>✓</td>
-    <td></td>
-    <td></td>
     <td>✓ (audit)</td>
     <td>✓</td>
   </tr>
@@ -247,9 +232,6 @@
     <td>6</td>
     <td>FreeCodeCamp</td>
     <td><a href="https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/" title="Introduction to Basic HTML & HTML5">Introduction to Basic HTML & HTML5</a></td>
-    <td>✓</td>
-    <td></td>
-    <td></td>
     <td>✓</td>
     <td></td>
   </tr>
