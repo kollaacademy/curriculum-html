@@ -1,4 +1,7 @@
-<h1>SILABUS HTML DEVELOPER</h1>
+<h1>HTML DEVELOPER</h1>
+
+<h2>SILABUS HTML DEVELOPER</h2>
+
 <table>
   <tbody>
     <tr>
@@ -78,7 +81,7 @@
   </tbody>
 </table>
 
-<h1>HTML</h1>
+<h2>KURIKULUM PELATIHAN</h2>
 
 <table>
   <tr>
