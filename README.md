@@ -1,6 +1,6 @@
 <h1>HTML DEVELOPER</h1>
 
-<h2>Silabus HTML Developer</h2>
+<h2>Silabus</h2>
 
 <table>
   <tbody>
@@ -42,13 +42,14 @@
       <td><strong>Unit Kompetensi yang ditempuh</strong></td>
       <td>
         <ol>
-          <li>Syntax dan Grammar</li>
-          <li>Tipografi</li>
-          <li>Topografi</li>
-          <li>Images</li>
-          <li>Hyperlink</li>
-          <li>Table</li>
-          <li>Form</li>
+          <li>Ekosistem HTML</li>
+          <li>Sintaks dan Tata Bahasa HTML</li>
+          <li>Topografi HTML</li>
+          <li>Tipografi HTML</li>
+          <li>Hyperlink HTML</li>
+          <li>Multimedia HTML</li>
+          <li>Table HTML</li>
+          <li>Form HTML</li>
         </ol>
       </td>
     </tr>
@@ -177,4 +178,4 @@
   </tr>
 </table>
 
-Lihat [Materi Ajar](https://github.com/kollaacademy/curriculum-html/wiki) di [Wiki](https://github.com/kollaacademy/curriculum-html/wiki)
+Lihat silabus di [Wiki](https://github.com/kollaacademy/curriculum-html/wiki)
