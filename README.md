@@ -1,4 +1,4 @@
-<h1>HTML DEVELOPER</h1>
+<h1>HTML Developer</h1>
 
 <h2>Silabus</h2>
 
@@ -83,7 +83,7 @@
   </tbody>
 </table>
 
-<h2>Kurikulum</h2>
+<h2>Silabus</h2>
 
 <table>
   <tr>
