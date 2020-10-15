@@ -167,25 +167,21 @@
           <td><strong>Comment Out</strong></td>
       </tr>
       <tr>
-        <td rowspan="4">6</td>
-        <td rowspan="4"><strong>Debugging HTML</strong></td>
-        <td><strong>ke.html.1.005.01.1</strong></td>
-        <td><strong>Console</strong></td>
-        <td rowspan="4">2</td>
-        <td rowspan="4">4</td>
-        <td rowspan="4">6</td>
-    </tr>
-    <tr>
-        <td><strong>ke.html.1.006.02.1</strong></td>
-        <td><strong>Debugger</strong></td>
-    </tr>
-    <tr>
-        <td><strong>ke.html.1.006.03.1</strong></td>
+        <td rowspan="3">6</td>
+        <td rowspan="3"><strong>Debugging HTML</strong></td>
+        <td><strong>ke.html.1.06.01.1</strong></td>
         <td><strong>Browser Debugging Tools</strong></td>
+        <td rowspan="3">2</td>
+        <td rowspan="3">4</td>
+        <td rowspan="3">6</td>
     </tr>
     <tr>
-        <td><strong>ke.html.1.006.04.1</strong></td>
-        <td><strong>Breakpoints</strong></td>
+        <td><strong>ke.html.1.06.02.1</strong></td>
+        <td><strong>Text Editor Debugging Tools</strong></td>
+    </tr>
+    <tr>
+        <td><strong>ke.html.1.06.03.1</strong></td>
+        <td><strong>Console Debugging</strong></td>
     </tr>
       <tr>
           <td rowspan="3">7</td>
