@@ -17,7 +17,7 @@
     </tr>
     <tr>
       <td><strong>Kode Program Pelatihan</strong></td>
-      <td><strong>ke.html.01</strong></td>
+      <td><strong>ke.html.1</strong></td>
     </tr>
     <tr>
       <td><strong>Sub Bidang Pelatihan</strong></td>
@@ -61,7 +61,7 @@
         <ol>
           <li>Memiliki Kompetensi <strong>ke.komp.01</strong></li>
           <li>Memiliki Kompetensi <strong>ke.inet.01</strong></li>
-          <li>Memiliki Kompetensi <strong>ke.html.01</strong></li>
+          <li>Memiliki Kompetensi <strong>ke.html.1</strong></li>
           <li>Memiliki Kompetensi <strong>ke.css.01</strong></li>
           <li>Mengikuti Training of Trainer untuk Mentor</li>
         </ol>
@@ -96,289 +96,289 @@
       <tr>
           <td rowspan="3">1</td>
           <td rowspan="3"><strong>Ekosistem HTML</strong></td>
-          <td><strong>ke.html.01.001.01.1</strong></td>
+          <td><strong>ke.html.1.01.01.1</strong></td>
           <td><strong>Sejarah</strong></td>
           <td rowspan="3">2</td>
           <td rowspan="3">0</td>
           <td rowspan="3">2</td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.001.02.1</strong></td>
+          <td><strong>ke.html.1.01.02.1</strong></td>
           <td><strong>Tentang</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.001.03.1</strong></td>
+          <td><strong>ke.html.1.01.03.1</strong></td>
           <td><strong>Roadmap</strong></td>
       </tr>
       <tr>
           <td rowspan="2">2</td>
           <td rowspan="2"><strong>Tool HTML</strong></td>
-          <td><strong>ke.html.01.002.01.1</strong></td>
+          <td><strong>ke.html.1.02.01.1</strong></td>
           <td><strong>Instalasi</strong></td>
           <td rowspan="2">2</td>
           <td rowspan="2">4</td>
           <td rowspan="2">6</td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.002.02.1</strong></td>
+          <td><strong>ke.html.1.02.02.1</strong></td>
           <td><strong>Konfigurasi</strong></td>
       </tr>
       <tr>
           <td rowspan="2">3</td>
           <td rowspan="2"><strong>Standard dan Best Practice HTML</strong></td>
-          <td><strong>ke.html.01.003.01.1</strong></td>
+          <td><strong>ke.html.1.03.01.1</strong></td>
           <td><strong>Struktur</strong></td>
           <td rowspan="2">1</td>
           <td rowspan="2">1</td>
           <td rowspan="2">2</td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.003.02.1</strong></td>
+          <td><strong>ke.html.1.03.02.1</strong></td>
           <td><strong>Style Guide</strong></td>
       </tr>
       <tr>
           <td rowspan="3">4</td>
           <td rowspan="3"><strong>Comment HTML</strong></td>
-          <td><strong>ke.html.01.004.01.1</strong></td>
+          <td><strong>ke.html.1.04.01.1</strong></td>
           <td><strong>Single Line</strong></td>
           <td rowspan="3">1</td>
           <td rowspan="3">1</td>
           <td rowspan="3">2</td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.004.02.1</strong></td>
+          <td><strong>ke.html.1.04.02.1</strong></td>
           <td><strong>Multi Line</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.004.03.1</strong></td>
+          <td><strong>ke.html.1.04.03.1</strong></td>
           <td><strong>Comment Out</strong></td>
       </tr>
       <tr>
           <td rowspan="3">5</td>
           <td rowspan="3"><strong>Topografi HTML</strong></td>
-          <td><strong>ke.html.01.005.01.1</strong></td>
+          <td><strong>ke.html.1.05.01.1</strong></td>
           <td><strong>Variable</strong></td>
           <td rowspan="3">2</td>
           <td rowspan="3">2</td>
           <td rowspan="3">4</td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.005.02.1</strong></td>
+          <td><strong>ke.html.1.05.02.1</strong></td>
           <td><strong>Constant</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.005.03.1</strong></td>
+          <td><strong>ke.html.1.05.03.1</strong></td>
           <td><strong>Scope</strong></td>
       </tr>
       <tr>
           <td rowspan="9">6</td>
           <td rowspan="9"><strong>Tipografi HTML</strong></td>
-          <td><strong>ke.html.01.006.01.1</strong></td>
+          <td><strong>ke.html.1.06.01.1</strong></td>
           <td><strong>Boolean</strong></td>
           <td rowspan="9">4</td>
           <td rowspan="9">8</td>
           <td rowspan="9">12</td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.006.02.1</strong></td>
+          <td><strong>ke.html.1.06.02.1</strong></td>
           <td><strong>Null</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.006.03.1</strong></td>
+          <td><strong>ke.html.1.06.03.1</strong></td>
           <td><strong>Undefined</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.006.04.1</strong></td>
+          <td><strong>ke.html.1.06.04.1</strong></td>
           <td><strong>Number</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.006.05.1</strong></td>
+          <td><strong>ke.html.1.06.05.1</strong></td>
           <td><strong>Symbol</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.006.06.1</strong></td>
+          <td><strong>ke.html.1.06.06.1</strong></td>
           <td><strong>String</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.006.07.1</strong></td>
+          <td><strong>ke.html.1.06.07.1</strong></td>
           <td><strong>Object</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.006.08.1</strong></td>
+          <td><strong>ke.html.1.06.08.1</strong></td>
           <td><strong>Cek Tipe Data</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.006.09.1</strong></td>
+          <td><strong>ke.html.1.06.09.1</strong></td>
           <td><strong>Konversi Tipe Data</strong></td>
       </tr>
       <tr>
           <td rowspan="4">7</td>
           <td rowspan="4"><strong>Hyperlink HTML</strong></td>
-          <td><strong>ke.html.01.007.01.1</strong></td>
+          <td><strong>ke.html.1.07.01.1</strong></td>
           <td><strong>Array 1 Dimensi</strong></td>
           <td rowspan="4">4</td>
           <td rowspan="4">6</td>
           <td rowspan="4">10</td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.007.02.1</strong></td>
+          <td><strong>ke.html.1.07.02.1</strong></td>
           <td><strong>Array Multi Dimensi</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.007.03.1</strong></td>
+          <td><strong>ke.html.1.07.03.1</strong></td>
           <td><strong>Object 1 Dimensi</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.007.04.1</strong></td>
+          <td><strong>ke.html.1.07.04.1</strong></td>
           <td><strong>Object Multi Dimensi</strong></td>
       </tr>
       <tr>
           <td rowspan="6">8</td>
           <td rowspan="6"><strong>Multimedia HTML</strong></td>
-          <td><strong>ke.html.01.008.01.1</strong></td>
+          <td><strong>ke.html.1.08.01.1</strong></td>
           <td><strong>Arithmetic</strong></td>
           <td rowspan="6">4</td>
           <td rowspan="6">8</td>
           <td rowspan="6">12</td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.008.02.1</strong></td>
+          <td><strong>ke.html.1.08.02.1</strong></td>
           <td><strong>Assignment</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.008.03.1</strong></td>
+          <td><strong>ke.html.1.08.03.1</strong></td>
           <td><strong>Comparison</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.008.04.1</strong></td>
+          <td><strong>ke.html.1.08.04.1</strong></td>
           <td><strong>Logical</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.008.05.1</strong></td>
+          <td><strong>ke.html.1.08.05.1</strong></td>
           <td><strong>Bitwise</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.008.06.1</strong></td>
+          <td><strong>ke.html.1.08.06.1</strong></td>
           <td><strong>Special</strong></td>
       </tr>
       <tr>
           <td rowspan="5">9</td>
           <td rowspan="5"><strong>Table HTML</strong></td>
-          <td><strong>ke.html.01.009.01.1</strong></td>
+          <td><strong>ke.html.1.09.01.1</strong></td>
           <td><strong>If</strong></td>
           <td rowspan="5">2</td>
           <td rowspan="5">6</td>
           <td rowspan="5">8</td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.009.02.1</strong></td>
+          <td><strong>ke.html.1.09.02.1</strong></td>
           <td><strong>Else</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.009.03.1</strong></td>
+          <td><strong>ke.html.1.09.03.1</strong></td>
           <td><strong>Else If</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.009.04.1</strong></td>
+          <td><strong>ke.html.1.09.04.1</strong></td>
           <td><strong>Ternary</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.009.05.1</strong></td>
+          <td><strong>ke.html.1.09.05.1</strong></td>
           <td><strong>Switch</strong></td>
       </tr>
       <tr>
           <td rowspan="9">10</td>
           <td rowspan="9"><strong>Form HTML</strong></td>
-          <td><strong>ke.html.01.010.01.1</strong></td>
+          <td><strong>ke.html.1.010.01.1</strong></td>
           <td><strong>While</strong></td>
           <td rowspan="9">2</td>
           <td rowspan="9">6</td>
           <td rowspan="9">8</td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.010.02.1</strong></td>
+          <td><strong>ke.html.1.010.02.1</strong></td>
           <td><strong>Do While</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.010.03.1</strong></td>
+          <td><strong>ke.html.1.010.03.1</strong></td>
           <td><strong>For</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.010.04.1</strong></td>
+          <td><strong>ke.html.1.010.04.1</strong></td>
           <td><strong>Break</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.010.05.1</strong></td>
+          <td><strong>ke.html.1.010.05.1</strong></td>
           <td><strong>Continue</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.010.06.1</strong></td>
+          <td><strong>ke.html.1.010.06.1</strong></td>
           <td><strong>For Of</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.010.07.1</strong></td>
+          <td><strong>ke.html.1.010.07.1</strong></td>
           <td><strong>For In</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.010.08.1</strong></td>
+          <td><strong>ke.html.1.010.08.1</strong></td>
           <td><strong>Foreach</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.010.09.1</strong></td>
+          <td><strong>ke.html.1.010.09.1</strong></td>
           <td><strong>Map</strong></td>
       </tr>
       <tr>
           <td rowspan="7">11</td>
           <td rowspan="7"><strong>Function HTML</strong></td>
-          <td><strong>ke.html.01.011.01.1</strong></td>
+          <td><strong>ke.html.1.011.01.1</strong></td>
           <td><strong>Function Declaration</strong></td>
           <td rowspan="7">2</td>
           <td rowspan="7">8</td>
           <td rowspan="7">10</td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.011.02.1</strong></td>
+          <td><strong>ke.html.1.011.02.1</strong></td>
           <td><strong>Function Expression</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.011.03.1</strong></td>
+          <td><strong>ke.html.1.011.03.1</strong></td>
           <td><strong>Shorthand Function</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.011.04.1</strong></td>
+          <td><strong>ke.html.1.011.04.1</strong></td>
           <td><strong>Arrow Function</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.011.05.1</strong></td>
+          <td><strong>ke.html.1.011.05.1</strong></td>
           <td><strong>Generator Function</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.011.06.1</strong></td>
+          <td><strong>ke.html.1.011.06.1</strong></td>
           <td><strong>New Function</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.011.07.1</strong></td>
+          <td><strong>ke.html.1.011.07.1</strong></td>
           <td><strong>Recursive</strong></td>
       </tr>
       <tr>
           <td rowspan="4">12</td>
           <td rowspan="4"><strong>Debugging HTML</strong></td>
-          <td><strong>ke.html.01.012.01.1</strong></td>
+          <td><strong>ke.html.1.012.01.1</strong></td>
           <td><strong>Console</strong></td>
           <td rowspan="4">2</td>
           <td rowspan="4">4</td>
           <td rowspan="4">6</td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.012.02.1</strong></td>
+          <td><strong>ke.html.1.012.02.1</strong></td>
           <td><strong>Debugger</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.01.012.03.1</strong></td>
+          <td><strong>ke.html.1.012.03.1</strong></td>
           <td><strong>Browser Debugging Tools</strong></td>
       </tr>
        <tr>
-          <td><strong>ke.html.01.012.04.1</strong></td>
+          <td><strong>ke.html.1.012.04.1</strong></td>
           <td><strong>Breakpoints</strong></td>
       </tr>
   </tbody>
@@ -411,7 +411,7 @@
     <td>1</td>
     <td><strong>Ekosistem HTML</strong></td>
     <td>Menjelaskan posisi HTML dalam ekosistem web</td>
-    <td><strong>html.101.001</strong></td>
+    <td><strong>html.101.01</strong></td>
     <td>3</td>
     <td>0</td>
     <td>3</td>
@@ -420,7 +420,7 @@
     <td>2</td>
     <td><strong>Sintaks dan Tata Bahasa HTML</strong></td>
     <td>Menjelaskan sintaks dan tata bahasa dalam HTML</td>
-    <td><strong>html.101.002</strong></td>
+    <td><strong>html.101.02</strong></td>
     <td>3</td>
     <td>3</td>
     <td>6</td>
@@ -429,7 +429,7 @@
     <td>3</td>
     <td><strong>Topografi HTML</strong></td>
     <td>Menerapkan topografi dalam halaman web</td>
-    <td><strong>html.101.003</strong></td>
+    <td><strong>html.101.03</strong></td>
     <td>3</td>
     <td>3</td>
     <td>6</td>
@@ -438,7 +438,7 @@
     <td>4</td>
     <td><strong>Tipografi HTML</strong></td>
     <td>Menerapkan tipografi dalam halaman web </td>
-    <td><strong>html.101.004</strong></td>
+    <td><strong>html.101.04</strong></td>
     <td>3</td>
     <td>3</td>
     <td>6</td>
@@ -447,7 +447,7 @@
     <td>5</td>
     <td><strong>Hyperlink HTML</strong></td>
     <td>Menerapkan hyperlink dalam halaman web</td>
-    <td><strong>html.101.005</strong></td>
+    <td><strong>html.101.05</strong></td>
     <td>3</td>
     <td>3</td>
     <td>6</td>
@@ -456,7 +456,7 @@
     <td>6</td>
     <td><strong>Multimedia HTML</strong></td>
     <td>Menerapkan multimedia dalam halaman web</td>
-    <td><strong>html.101.006</strong></td>
+    <td><strong>html.101.06</strong></td>
     <td>1</td>
     <td>2</td>
     <td>3</td>
@@ -465,7 +465,7 @@
     <td>7</td>
     <td><strong>Table HTML</strong></td>
     <td>Menerapkan table dalam halaman web</td>
-    <td><strong>html.101.007</strong></td>
+    <td><strong>html.101.07</strong></td>
     <td>1</td>
     <td>2</td>
     <td>3</td>
@@ -474,7 +474,7 @@
     <td>8</td>
     <td><strong>Form HTML</strong></td>
     <td>Menerapkan form dalam halaman web</td>
-    <td><strong>html.101.008</strong></td>
+    <td><strong>html.101.08</strong></td>
     <td>3</td>
     <td>3</td>
     <td>6</td>
@@ -543,7 +543,7 @@
   <tr>
     <td>5</td>
     <td>Udacity</td>
-    <td><a href="https://www.udacity.com/course/intro-to-html-and-css--ud001" title="Intro to HTML and CSS">Intro to HTML and CSS</a></td>
+    <td><a href="https://www.udacity.com/course/intro-to-html-and-css--ud01" title="Intro to HTML and CSS">Intro to HTML and CSS</a></td>
     <td>✓ (audit)</td>
     <td>✓</td>
   </tr>
