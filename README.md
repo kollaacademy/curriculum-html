@@ -1,61 +1,48 @@
-<h1>HTML Developer</h1>
+<h2>Daftar Isi</h2>
 
-<h2>Silabus</h2>
+<ol>
+  <li><a href="#ikhtisar" title="Ikhtisar">Ikhtisar</li>
+  <li><a href="#silabus" title="Silabus">Silabus</li>
+</ol>
+
+<hr>
+
+<h2 id="ikhtisar">Ikhtisar</h2>
 
 <table>
   <tbody>
     <tr>
       <td><strong>Nama Program Pelatihan</strong></td>
-      <td>HTML Developer</td>
+      <td>HTML Programmer</td>
     </tr>
     <tr>
       <td><strong>Kode Program Pelatihan</strong></td>
-      <td><strong>html.101</strong></td>
+      <td><strong>ke.html.01</strong></td>
     </tr>
     <tr>
       <td><strong>Sub Bidang Pelatihan</strong></td>
-      <td>Front-End Developer</td>
+      <td>Front-End Programmer</td>
     </tr>
     <tr>
       <td><strong>Standar Kompetensi Acuan</strong></td>
       <td>
         <ul>
-          <li>Coursera</li>
-          <li>edX</li>
-          <li>Udacity</li>
+          <li>Nasional</li>
+          <li>Internasional</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td><strong>Skema Sertifikasi Acuan</strong></td>
-      <td>Okupasi Nasional</td>
-    </tr>
-    <tr>
       <td><strong>Tujuan Pelatihan</strong></td>
-      <td>Setelah mengikuti pelatihan ini, peserta dapat meningkatkan kompetensi teknis dalam HTML secara profesional</td>
+      <td>Peserta meningkatkan kompetensi dalam HTML secara profesional</td>
     </tr>
     <tr>
       <td><strong>Sasaran Pelatihan</strong></td>
-      <td>Terwujudnya SDM yang memiliki kompetensi HTML dalam melaksanakan pemrograman web secara profesional</td>
-    </tr>
-    <tr>
-      <td><strong>Unit Kompetensi yang ditempuh</strong></td>
-      <td>
-        <ol>
-          <li><strong>html.101.001</strong> Menjelaskan posisi HTML dalam ekosistem web</li>
-          <li><strong>html.101.002</strong> Menjelaskan sintaks dan tata bahasa dalam HTML</li>
-          <li><strong>html.101.003</strong> Menerapkan topografi dalam halaman web</li>
-          <li><strong>html.101.004</strong> Menerapkan tipografi dalam halaman web</li>
-          <li><strong>html.101.005</strong> Menerapkan hyperlink dalam halaman web</li>
-          <li><strong>html.101.006</strong> Menerapkan multimedia dalam halaman web</li>
-          <li><strong>html.101.007</strong> Menerapkan table dalam halaman web</li>
-          <li><strong>html.101.008</strong> Menerapkan form dalam halaman web</li>
-        </ol>
-      </td>
+      <td>Terwujudnya SDM yang memiliki kompetensi HTML secara profesional</td>
     </tr>
     <tr>
       <td><strong>Perkiraan Waktu Pelatihan</th>
-      <td>39 Jam Pelatihan</td>
+      <td>225 Jam Pelatihan</td>
     </tr>
     <tr>
       <td><strong>Persyaratan Umum Peserta Pelatihan</strong></td>
@@ -72,16 +59,20 @@
       <td><strong>Persyaratan Umum Tenaga Pengajar</strong></td>
       <td>
         <ol>
-          <li>Memiliki Kompetensi <strong>komputer.101</strong></li>
-          <li>Memiliki Kompetensi <strong>internet.101</strong></li>
-          <li>Memiliki Kompetensi <strong>html.101</strong></li>
-          <li>Memiliki Kompetensi <strong>css.101</strong></li>
+          <li>Memiliki Kompetensi <strong>ke.komp.01</strong></li>
+          <li>Memiliki Kompetensi <strong>ke.inet.01</strong></li>
+          <li>Memiliki Kompetensi <strong>ke.html.01</strong></li>
+          <li>Memiliki Kompetensi <strong>ke.css.01</strong></li>
           <li>Mengikuti Training of Trainer untuk Mentor</li>
         </ol>
       </td>
     </tr>
   </tbody>
 </table>
+
+<a href="#daftar-isi" title="^ top">^ top</a>
+
+<hr>
 
 <h2>Silabus</h2>
 
@@ -179,6 +170,10 @@
   </tr>
 </table>
 
+<a href="#daftar-isi" title="^ top">^ top</a>
+
+<hr>
+
 <h2>Sertifikasi</h2>
 
 <table>
@@ -244,6 +239,6 @@
   </tr>
 </table>
 
-<h2>Materi Ajar</h2>
+<a href="#daftar-isi" title="^ top">^ top</a>
 
-Lihat [Materi Ajar](https://github.com/kollaacademy/kurikulum-html/wiki) di [Wiki](https://github.com/kollaacademy/kurikulum-html/wiki)
+<hr>
