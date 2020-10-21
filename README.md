@@ -61,7 +61,7 @@
       <td><strong>Persyaratan Umum Tenaga Pengajar</strong></td>
       <td>
         <ol>
-          <li>Memiliki Kompetensi <a href="./kurikulum-ki" title="Komputer & Internet"><strong>ke.ki.1</strong></a></li>
+          <li>Memiliki Kompetensi <a href="../../kurikulum-ki" title="Komputer & Internet"><strong>ke.ki.1</strong></a></li>
           <li>Memiliki Kompetensi <strong>ke.html.1</strong></li>
           <li>Memiliki Kompetensi <strong>ke.css.1</strong></li>
           <li>Mengikuti Training of Trainer untuk Mentor</li>
