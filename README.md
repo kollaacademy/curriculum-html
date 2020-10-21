@@ -61,10 +61,9 @@
       <td><strong>Persyaratan Umum Tenaga Pengajar</strong></td>
       <td>
         <ol>
-          <li>Memiliki Kompetensi <strong>ke.komp.01</strong></li>
-          <li>Memiliki Kompetensi <strong>ke.inet.01</strong></li>
+          <li>Memiliki Kompetensi <a href="../kurikulum-ki" title="Komputer & Internet"><strong>ke.ki.1M</strong></a></li>
           <li>Memiliki Kompetensi <strong>ke.html.1</strong></li>
-          <li>Memiliki Kompetensi <strong>ke.css.01</strong></li>
+          <li>Memiliki Kompetensi <strong>ke.css.1</strong></li>
           <li>Mengikuti Training of Trainer untuk Mentor</li>
         </ol>
       </td>
@@ -335,7 +334,8 @@
   <tr>
     <tr>
     <th rowspan="2">No</th>
-    <th rowspan="2">Penyelenggara</th>
+    <th rowspan="2">Institusi</th>
+    <th rowspan="2">Platform</th>
     <th rowspan="2">Sertifikasi</th>
     <th colspan="2">Biaya</th>
   </tr>
@@ -381,7 +381,7 @@
   <tr>
     <td>5</td>
     <td>Udacity</td>
-    <td><a href="https://www.udacity.com/course/intro-to-html-and-css--ud01" title="Intro to HTML and CSS">Intro to HTML and CSS</a></td>
+    <td><a href="https://www.udacity.com/course/intro-to-html-and-css--ud001" title="Intro to HTML and CSS">Intro to HTML and CSS</a></td>
     <td>✓ (audit)</td>
     <td>✓</td>
   </tr>
