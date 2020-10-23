@@ -61,7 +61,7 @@
       <td><strong>Persyaratan Umum Tenaga Pengajar</strong></td>
       <td>
         <ol>
-          <li>Memiliki Kompetensi <a href="https://github.com/kollaeducation/kurikulum-ki/" title="Komputer & Internet 101"><strong>ke.ki.1</strong></a></li>
+          <li>Memiliki Kompetensi <a href="https://github.com/kollaeducation/kurikulum-ki/" title="Komputer dan Internet 101"><strong>ke.ki.1</strong></a></li>
           <li>Memiliki Kompetensi <a href="https://github.com/kollaeducation/kurikulum-html/" title="HTML 101"><strong>ke.html.1</strong></a></li>
           <li>Memiliki Kompetensi <a href="https://github.com/kollaeducation/kurikulum-css/" title="CSS 101"><strong>ke.css.1</strong></a></li>
           <li>Mengikuti Training of Trainer untuk Mentor</li>
@@ -96,7 +96,7 @@
   <tbody>
       <tr>
           <td rowspan="3">1</td>
-          <td rowspan="3"><strong>Ekosistem HTML</strong></td>
+          <td rowspan="3"><strong>Semesta HTML</strong></td>
           <td><strong>ke.html.1.01.01.1</strong></td>
           <td><strong>Tentang</strong></td>
           <td rowspan="3">2</td>
@@ -109,7 +109,7 @@
       </tr>
       <tr>
           <td><strong>ke.html.1.01.03.1</strong></td>
-          <td><strong>Roadmap</strong></td>
+          <td><strong>Peta Jalan</strong></td>
       </tr>
       <tr>
           <td rowspan="2">2</td>
@@ -139,7 +139,7 @@
       </tr>
       <tr>
           <td rowspan="2">4</td>
-          <td rowspan="2"><strong>Standard & Best Practice HTML</strong></td>
+          <td rowspan="2"><strong>Standard dan Best Practice HTML</strong></td>
           <td><strong>ke.html.1.04.01.1</strong></td>
           <td><strong>Style Guide</strong></td>
           <td rowspan="2">1</td>
@@ -233,7 +233,7 @@
       </tr>
       <tr>
           <td rowspan="4">10</td>
-          <td rowspan="4"><strong>Multimedia & Embed HTML</strong></td>
+          <td rowspan="4"><strong>Multimedia dan Embed HTML</strong></td>
           <td><strong>ke.html.1.10.01.1</strong></td>
           <td><strong>Image</strong></td>
           <td rowspan="4">4</td>
@@ -296,7 +296,7 @@
     </tr>
       <tr>
           <td><strong>ke.html.1.12.04.1</strong></td>
-          <td><strong>Select & Option</strong></td>
+          <td><strong>Select dan Option</strong></td>
       </tr>
       <tr>
           <td><strong>ke.html.1.12.05.1</strong></td>
@@ -386,7 +386,7 @@
   <tr>
     <td>6</td>
     <td>FreeCodeCamp</td>
-    <td><a href="https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/" title="Introduction to Basic HTML & HTML5">Introduction to Basic HTML & HTML5</a></td>
+    <td><a href="https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/" title="Introduction to Basic HTML dan HTML5">Introduction to Basic HTML dan HTML5</a></td>
     <td>✓</td>
     <td></td>
   </tr>
