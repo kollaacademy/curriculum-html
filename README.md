@@ -253,13 +253,13 @@
           <td><strong>Audio</strong></td>
       </tr>
       <tr>
-          <td rowspan="3">11</td>
-          <td rowspan="3"><strong>Table HTML</strong></td>
+          <td rowspan="5">11</td>
+          <td rowspan="5"><strong>Table HTML</strong></td>
           <td><strong>ke.html.1.10.01.1</strong></td>
           <td><strong>Structure</strong></td>
-          <td rowspan="3">2</td>
-          <td rowspan="3">6</td>
-          <td rowspan="3">8</td>
+          <td rowspan="5">2</td>
+          <td rowspan="5">6</td>
+          <td rowspan="5">8</td>
       </tr>
       <tr>
           <td><strong>ke.html.1.11.02.1</strong></td>
