@@ -3,8 +3,8 @@
 <ol>
   <li><a href="#ikhtisar" title="Ikhtisar">Ikhtisar</li>
   <li><a href="#silabus" title="Silabus">Silabus</li>
-  <li><a href="#referensi" title="Referensi">Referensi</li>
   <li><a href="#sertifikasi" title="Sertifikasi">Sertifikasi</li>
+  <li><a href="#referensi" title="Referensi">Referensi</li>
 </ol>
 
 <hr>
@@ -326,16 +326,6 @@
 
 <hr>
 
-<h2>Referensi</h2>
-
-<ul>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML: HyperText Markup Language | MDN">HTML: HyperText Markup Language | MDN</a></li>
-</ul>
-
-<a href="#daftar-isi" title="^ top">^ top</a>
-
-<hr>
-
 <h2>Sertifikasi</h2>
 
 <table>
@@ -401,6 +391,16 @@
     <td></td>
   </tr>
 </table>
+
+<a href="#daftar-isi" title="^ top">^ top</a>
+
+<hr>
+
+<h2>Referensi</h2>
+
+<ul>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML: HyperText Markup Language | MDN">HTML: HyperText Markup Language | MDN</a></li>
+</ul>
 
 <a href="#daftar-isi" title="^ top">^ top</a>
 
