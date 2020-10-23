@@ -151,39 +151,39 @@
           <td><strong>Struktur</strong></td>
       </tr>
       <tr>
-          <td rowspan="3">5</td>
-          <td rowspan="3"><strong>Comment HTML</strong></td>
-          <td><strong>ke.html.1.05.01.1</strong></td>
-          <td><strong>Single Line</strong></td>
-          <td rowspan="3">1</td>
-          <td rowspan="3">1</td>
-          <td rowspan="3">2</td>
-      </tr>
-      <tr>
-          <td><strong>ke.html.1.05.02.1</strong></td>
-          <td><strong>Multi Line</strong></td>
-      </tr>
-      <tr>
-          <td><strong>ke.html.1.05.03.1</strong></td>
-          <td><strong>Comment Out</strong></td>
-      </tr>
-      <tr>
-        <td rowspan="3">6</td>
+        <td rowspan="3">5</td>
         <td rowspan="3"><strong>Debugging HTML</strong></td>
-        <td><strong>ke.html.1.06.01.1</strong></td>
+        <td><strong>ke.html.1.05.01.1</strong></td>
         <td><strong>Browser Debugging Tools</strong></td>
         <td rowspan="3">2</td>
         <td rowspan="3">4</td>
         <td rowspan="3">6</td>
     </tr>
     <tr>
-        <td><strong>ke.html.1.06.02.1</strong></td>
+        <td><strong>ke.html.1.05.02.1</strong></td>
         <td><strong>Text Editor Debugging Tools</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.html.1.06.03.1</strong></td>
+        <td><strong>ke.html.1.05.03.1</strong></td>
         <td><strong>Console Debugging</strong></td>
     </tr>
+    <tr>
+          <td rowspan="3">6</td>
+          <td rowspan="3"><strong>Comment HTML</strong></td>
+          <td><strong>ke.html.1.06.01.1</strong></td>
+          <td><strong>Single Line</strong></td>
+          <td rowspan="3">1</td>
+          <td rowspan="3">1</td>
+          <td rowspan="3">2</td>
+      </tr>
+      <tr>
+          <td><strong>ke.html.1.06.02.1</strong></td>
+          <td><strong>Multi Line</strong></td>
+      </tr>
+      <tr>
+          <td><strong>ke.html.1.06.03.1</strong></td>
+          <td><strong>Comment Out</strong></td>
+      </tr>
       <tr>
           <td rowspan="3">7</td>
           <td rowspan="3"><strong>Topografi HTML</strong></td>
@@ -263,43 +263,51 @@
       </tr>
       <tr>
           <td><strong>ke.html.1.11.02.1</strong></td>
-          <td><strong>Row & Column</strong></td>
+          <td><strong>Row</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.1.11.03.1</strong></td>
-          <td><strong>Rowspan & Colspan</strong></td>
+          <td><strong>ke.html.1.12.02.1</strong></td>
+          <td><strong>Column</strong></td>
+      </tr>
+      <tr>
+          <td><strong>ke.html.1.13.03.1</strong></td>
+          <td><strong>Rowspan</strong></td>
+      </tr>
+      <tr>
+          <td><strong>ke.html.1.14.03.1</strong></td>
+          <td><strong>Colspan</strong></td>
       </tr>
       <tr>
           <td rowspan="7">12</td>
           <td rowspan="7"><strong>Form HTML</strong></td>
-          <td><strong>ke.html.1.012.01.1</strong></td>
+          <td><strong>ke.html.1.12.01.1</strong></td>
           <td><strong>Attribute</strong></td>
           <td rowspan="7">2</td>
           <td rowspan="7">6</td>
           <td rowspan="7">8</td>
       </tr>
       <tr>
-          <td><strong>ke.html.1.012.02.1</strong></td>
+          <td><strong>ke.html.1.12.02.1</strong></td>
           <td><strong>Input</strong></td>
       </tr>
       <tr>
-        <td><strong>ke.html.1.012.03.1</strong></td>
+        <td><strong>ke.html.1.12.03.1</strong></td>
         <td><strong>Textarea</strong></td>
     </tr>
       <tr>
-          <td><strong>ke.html.1.012.04.1</strong></td>
+          <td><strong>ke.html.1.12.04.1</strong></td>
           <td><strong>Select & Option</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.1.012.05.1</strong></td>
+          <td><strong>ke.html.1.12.05.1</strong></td>
           <td><strong>Radio</strong></td>
       </tr>
       <tr>
-        <td><strong>ke.html.1.012.06.1</strong></td>
+        <td><strong>ke.html.1.12.06.1</strong></td>
         <td><strong>Checkbox</strong></td>
     </tr>
     <tr>
-      <td><strong>ke.html.1.012.07.1</strong></td>
+      <td><strong>ke.html.1.12.07.1</strong></td>
       <td><strong>Button</strong></td>
   </tr>
   </tbody>
