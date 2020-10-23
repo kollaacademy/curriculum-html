@@ -256,7 +256,7 @@
           <td rowspan="5">11</td>
           <td rowspan="5"><strong>Table HTML</strong></td>
           <td><strong>ke.html.1.11.01.1</strong></td>
-          <td><strong>Structure</strong></td>
+          <td><strong>Struktur</strong></td>
           <td rowspan="5">2</td>
           <td rowspan="5">6</td>
           <td rowspan="5">8</td>
