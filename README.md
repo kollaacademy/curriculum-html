@@ -221,7 +221,7 @@
       <tr>
           <td rowspan="2">9</td>
           <td rowspan="2"><strong>Hyperlink HTML</strong></td>
-          <td><strong>ke.html.1.08.01.1</strong></td>
+          <td><strong>ke.html.1.09.01.1</strong></td>
           <td><strong>Attribute</strong></td>
           <td rowspan="2">4</td>
           <td rowspan="2">6</td>
@@ -255,7 +255,7 @@
       <tr>
           <td rowspan="5">11</td>
           <td rowspan="5"><strong>Table HTML</strong></td>
-          <td><strong>ke.html.1.10.01.1</strong></td>
+          <td><strong>ke.html.1.11.01.1</strong></td>
           <td><strong>Structure</strong></td>
           <td rowspan="5">2</td>
           <td rowspan="5">6</td>
@@ -266,15 +266,15 @@
           <td><strong>Row</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.1.12.02.1</strong></td>
+          <td><strong>ke.html.1.11.03.1</strong></td>
           <td><strong>Column</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.1.13.03.1</strong></td>
+          <td><strong>ke.html.1.11.04.1</strong></td>
           <td><strong>Rowspan</strong></td>
       </tr>
       <tr>
-          <td><strong>ke.html.1.14.03.1</strong></td>
+          <td><strong>ke.html.1.11.05.1</strong></td>
           <td><strong>Colspan</strong></td>
       </tr>
       <tr>
